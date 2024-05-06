@@ -36,9 +36,9 @@ House Rental Management System is a simple web application developed using PHP a
 
 ## LOGIN DETAILS 
 
-**Admin**
-*user:* `admin`
-*pass:* `admin123`
+### Admin
+**user:** `admin`
+**pass:** `admin123`
 
 ## Note
 This project is intended for educational purposes only.
