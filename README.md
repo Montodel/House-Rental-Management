@@ -34,6 +34,12 @@ House Rental Management System is a simple web application developed using PHP a
 - The admin has full access to all features, while the staff has limited access.
 - Perform actions such as adding, editing, deleting, and viewing records as needed.
 
+## LOGIN DETAILS 
+
+**Admin**
+*user:* `admin`
+*pass:* `admin123`
+
 ## Note
 This project is intended for educational purposes only.
 
